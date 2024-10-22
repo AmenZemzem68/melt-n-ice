@@ -1,4 +1,4 @@
-import logo from "../assets/images/melt'n'ice.png";
+import logo from "../assets/images/Melt'n'Ice.png";
 import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
 import { AiOutlineCopyrightCircle } from "react-icons/ai";
 import { footerLinks } from "../constants";
