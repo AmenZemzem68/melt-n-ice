@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../assets/images/melt'n'ice.png";
+import logo from "../assets/images/Melt'n'Ice.png";
 import { navLinks } from "../constants";
 import { FiMenu, FiX } from "react-icons/fi";
 
